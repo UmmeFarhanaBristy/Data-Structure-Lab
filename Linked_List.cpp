@@ -36,7 +36,7 @@ int main()
     cout << "Number of inputs: ";
     int n = input(), i;
 
-    for(i = 0; i < n; i++)
+    for(i = 1; i <= n; i++)
     {
         if(i == 1)
         {
